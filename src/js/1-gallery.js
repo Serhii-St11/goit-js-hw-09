@@ -67,8 +67,6 @@ const images = [
   },
 ];
 
-const galleryList = document.querySelector('.gallery');
-
 const galleryContainer = document.querySelector('.gallery');
 
 const createGalleryMarkup = images
